@@ -1,0 +1,5 @@
+/home/segura/Escritorio/resapi/src/main/java/com/cryptograming/resapi/controller/ProductController.java
+/home/segura/Escritorio/resapi/src/main/java/com/cryptograming/resapi/entity/Product.java
+/home/segura/Escritorio/resapi/src/main/java/com/cryptograming/resapi/repository/ProductRepository.java
+/home/segura/Escritorio/resapi/src/main/java/com/cryptograming/resapi/service/ProductService.java
+/home/segura/Escritorio/resapi/src/main/java/com/cryptograming/resapi/ResapiApplication.java
